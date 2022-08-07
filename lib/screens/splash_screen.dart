@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:archive/screens/welcome_screen.dart';
-import 'package:archive/widgets/logo_hospital.dart';
+import 'package:archive/ui/component/logo/logo_hospital.dart';
 import 'package:flutter/material.dart';
 //import 'package:google_fonts/google_fonts.dart';
 
